@@ -37,7 +37,7 @@ jsproxy_config({
       label: '',
       hidden: true,
       lines: {
-        blue-butterfly-8be6.topdouban.workers.dev
+        'blue-butterfly-8be6.topdouban.workers.dev':1,
         //'b.007.workers.dev': 1,
         //'b.hehe.workers.dev': 1,
         //'b.lulu.workers.dev': 1,
